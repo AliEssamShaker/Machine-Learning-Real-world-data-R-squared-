@@ -1,4 +1,4 @@
-# Machine-Learning-Real-world-data-R-squared-
+# Machine-Learning-Regression-R-Squared
 Comparison between ML Regression(supervised learning) tools to conclude the one that provides the best R squared(best model).
 
 I will be comparing between multiple linear regression, Polynomial linear regression, SVR, Decision tree regression, random forest regression.
